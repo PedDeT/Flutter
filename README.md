@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+ALGUNAS DEPENDENCIAS NO SIRVEN SI NO SE EJECUTA EL SIGUIENTE COMANDO EN LA TERMINAL
+
+flutter pub add --dev flutter_lints
+
+ESTO AÑADE LAS DEPENDENCIAS A LAS CARPETAS NECESARIAS
+
+PS. ESTA VA PAL CESAR .|.
+
+
+PS2. NO TENGO ESQUIZOFRENIA
