@@ -24,7 +24,7 @@ class _DashboradState extends State<Dashboard> {
             Color(0xffca485c),
             Color(0xffe16b5c),
             Color(0xfff39060),
-            Color(0xffffb56b),// comentario prueba
+            Color(0xffffb56b),// comentario pruebafgdhdfgh 
           ],
         )),
       ),
