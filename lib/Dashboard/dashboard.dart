@@ -15,7 +15,7 @@ class _DashboradState extends State<Dashboard> {
         decoration: const BoxDecoration(
             gradient: LinearGradient(
           begin: Alignment.topLeft,
-          end: Alignment(0.8, 1),
+          end: Alignment(1, 1),
           colors: <Color>[
             Color(0xff1f005c),
             Color(0xff5b0060),
